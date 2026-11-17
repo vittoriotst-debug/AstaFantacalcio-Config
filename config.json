@@ -2,5 +2,5 @@
   "description": "Configurazione API",
   "simulator": "http://10.0.2.2:56979/",
   "smartphone": "http://vtesta-nb.tail3fbb0f.ts.net:56979/",
-  "apiBaseAddress": "http://vtesta-nb.tail3fbb0f.ts.net:56979/"
+  "apiBaseAddress": "http://10.0.2.2:56979/"
 }
